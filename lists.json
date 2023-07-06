@@ -15,7 +15,10 @@
         {"mWord":"palla", "fWord":"palla", "type": 1},
         {"mWord":"carbone", "fWord":"carbone", "type": 1},
         {"mWord":"cristolino", "fWord":"cristolino", "type": 1},
-        {"mWord":"grande tartaruga", "fWord":"grande tartaruga", "type": 1}
+        {"mWord":"grande tartaruga", "fWord":"grande tartaruga", "type": 1},
+        {"mWord":"cetriolo", "fWord":"cetriolo", "type": 1},
+        {"mWord":"pinolo", "fWord":"pinolo", "type": 1},
+        {"mWord":"povero", "fWord":"povero", "type": 1}
     ],
     "subjects": [
         {"name":"dio", "gender":"m"},
