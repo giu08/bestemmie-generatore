@@ -1,8 +1,8 @@
 fetch("lists.json")
-.then(Response => Response.json)
-.then(data => {
-    console.log(data)
-})
+    .then(Response => Response.json)
+    .then(data => {
+        console.log(data)
+    })
 
 console.log(json)
 
