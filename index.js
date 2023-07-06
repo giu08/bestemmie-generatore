@@ -4,8 +4,6 @@ fetch("lists.json")
         console.log(data)
     })
 
-console.log(json)
-
 function randomRange(min, max) {
     return Math.round(min + (Math.random()*(max-min)))
 }
