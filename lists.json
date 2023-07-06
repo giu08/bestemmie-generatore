@@ -1,4 +1,5 @@
 {
+    "sas":"sas",
     "insults": [
         {"mWord":"porco", "fWord":"porca", "type": 2},
         {"mWord":"cane", "fWord":"cagna", "type": 1}
