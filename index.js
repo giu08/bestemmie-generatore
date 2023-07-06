@@ -35,6 +35,8 @@ let makeWord = function() {
             output = [ins, sub].join(' ')
         } else if (order == 1) {
             output = [sub, ins].join(' ')
+        } else if (order == 3) {
+            output = ins.replace('<sub>', sub)
         }
          
         return String(output)
