@@ -14,7 +14,6 @@ let makeWord = function() {
     let iI = random(0, object.insults.length -1)
     let s = object.subjects[iS]
     let i = object.insults[iI]
-
         let ins = null
         let order = null
         let output = null
@@ -36,7 +35,11 @@ let makeWord = function() {
         } else if (order == 1) {
             output = [sub, ins].join(' ')
         } else if (order == 3) {
-            output = ins.replace('<sub>', sub)
+            if (ins.includes("<sub>")) {
+                output = ins.replace('<sub>', sub)
+            } else {
+                output = ins
+            }
         }
          
         return String(output)
