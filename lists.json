@@ -1,12 +1,27 @@
 {
     "insults": [
-        {"mWord":"porco", "fWord":"porca", "type": 2},
+        {"mWord":"porco", "fWord":"scrofa", "type": 2},
         {"mWord":"cane", "fWord":"cagna", "type": 1},
-        {"mWord":"stronzo", "fWord":"stronza", "type": 1}
+        {"mWord":"stronzo", "fWord":"stronza", "type": 1},
+        {"mWord":"patata", "fWord":"patata", "type": 1},
+        {"mWord":"pentola", "fWord":"pentola", "type": 1},
+        {"mWord":"dio", "fWord":"dio", "type": 2},
+        {"mWord":"cristo", "fWord":"cristo", "type": 2},
+        {"mWord":"kono <sub> da", "fWord":"kono <sub> da", "type": 3},
+        {"mWord":"pera", "fWord":"pera", "type": 1},
+        {"mWord":"cagnolino", "fWord":"cagnolina", "type": 1},
+        {"mWord":"parafulmini", "fWord":"parafulmini", "type": 1},
+        {"mWord":"panino", "fWord":"panino", "type": 1},
+        {"mWord":"palla", "fWord":"palla", "type": 1},
+        {"mWord":"carbone", "fWord":"carbone", "type": 1},
+        {"mWord":"cristolino", "fWord":"cristolino", "type": 1},
+        {"mWord":"grande tartaruga", "fWord":"grande tartaruga", "type": 1}
     ],
     "subjects": [
         {"name":"dio", "gender":"m"},
         {"name":"madonna", "gender":"f"},
-        {"name":"gesù", "gender":"m"}
+        {"name":"gesù", "gender":"m"},
+        {"name":"zio", "gender":"m"},
+        {"name":"zackaria", "gender":"m"}
     ]
 }
