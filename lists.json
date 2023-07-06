@@ -21,7 +21,11 @@
         {"mWord":"povero", "fWord":"povero", "type": 1},
         {"mWord":"incastrato", "fWord":"incastrata", "type": 1},
         {"mWord":"mollusco", "fWord":"mollusca", "type": 1},
-        {"mWord":"via parco", "fWord":"via parco", "type": 3}
+        {"mWord":"via parco", "fWord":"via parco", "type": 3},
+        {"mWord":"catapulta", "fWord":"catapulta", "type": 1},
+        {"mWord":"bella giornata", "fWord":"bella giornata", "type": 1},
+        {"mWord":"russo", "fWord":"russa", "type": 1},
+        {"mWord":"invertebrato", "fWord":"invertebrata", "type": 1}
     ],
     "subjects": [
         {"name":"dio", "gender":"m"},
