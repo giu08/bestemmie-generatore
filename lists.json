@@ -1,11 +1,12 @@
 {
-    "sas":"sas",
     "insults": [
         {"mWord":"porco", "fWord":"porca", "type": 2},
-        {"mWord":"cane", "fWord":"cagna", "type": 1}
+        {"mWord":"cane", "fWord":"cagna", "type": 1},
+        {"mWord":"stronzo", "fWord":"stronzo", "type": 1}
     ],
     "subjects": [
         {"name":"dio", "gender":"m"},
-        {"name":"madonna", "gender":"f"}
+        {"name":"madonna", "gender":"f"},
+        {"name":"gesù", "gender":"m"}
     ]
 }
