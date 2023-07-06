@@ -1,3 +1,3 @@
-# bestemmie-generatore
+#bohemian blasfemy
 
-[giu08.github.io/blasphemy/](https://giu08.github.io/blasphemy/)
+[giu08.github.io/bohemian-blasphemy/](https://giu08.github.io/bohemian-blasphemy/)
