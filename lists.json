@@ -29,7 +29,8 @@
         {"mWord":"pumba", "fWord":"pumba", "type": 1},
         {"mWord":"banana", "fWord":"banana", "type": 1},
         {"mWord":"sonnifero", "fWord":"sonnifero", "type": 1},
-        {"mWord":"mufasa", "fWord":"mufasa", "type": 1}
+        {"mWord":"mufasa", "fWord":"mufasa", "type": 1},
+        {"mWord":"cipolla", "fWord":"cipolla", "type": 1}
     ],
     "subjects": [
         {"name":"dio", "gender":"m"},
