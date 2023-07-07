@@ -25,7 +25,11 @@
         {"mWord":"catapulta", "fWord":"catapulta", "type": 1},
         {"mWord":"bella giornata", "fWord":"bella giornata", "type": 1},
         {"mWord":"russo", "fWord":"russa", "type": 1},
-        {"mWord":"invertebrato", "fWord":"invertebrata", "type": 1}
+        {"mWord":"invertebrato", "fWord":"invertebrata", "type": 1},
+        {"mWord":"pumba", "fWord":"pumba", "type": 1},
+        {"mWord":"banana", "fWord":"banana", "type": 1},
+        {"mWord":"sonnifero", "fWord":"sonnifero", "type": 1},
+        {"mWord":"mufasa", "fWord":"mufasa", "type": 1}
     ],
     "subjects": [
         {"name":"dio", "gender":"m"},
